@@ -1,6 +1,6 @@
-#Sales Insights – Brick & Mortar Business
+# Sales Insights – Brick & Mortar Business
 
-#Overview
+## Overview
 
 This project focuses on developing an automated dashboard for a computer hardware business to address challenges in scaling and gaining actionable insights in a rapidly changing market.
 
